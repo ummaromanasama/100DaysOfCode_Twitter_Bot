@@ -14,7 +14,7 @@ I shared my #100DaysOfCode journey on my website, check it out: https://www.roma
 
 If you head over to my Twitter account, you can see the Twitter bot in action. For ever hour my Twitter bot is favoriting 5 #100DaysOfCode tweets: https://twitter.com/Romanatized/likes
 
-During the duration of this project, I learned to write meaningful code, even if it is just a test code. In the early phases of composing code and testing it out, it is very important to be wary of what you are testing, how you are testing it, and the results you are expecting. I learned this the hard way when I was favoriting 500 tweets every 10 minutes. At first glance, I didn't suspect much until Twitter suspended me from favoriting tweets. Oops!
+While working on this project, it placed an emphasis on writing meaningful code, even if it is just a test code. In the early phases of composing code and testing it out, it is very important to be wary of what you are testing, how you are testing it, and the results you are expecting. I learned this the hard way when I was favoriting 500 tweets every 10 minutes. At first glance, I didn't suspect much until Twitter suspended me from favoriting tweets. Oops!
 
 ![](images/error.png)
 
