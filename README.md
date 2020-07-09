@@ -4,19 +4,17 @@ Overview: In a nutshell, the 100DaysOfCode_Twitter_Bot is a Twitter bot that sup
 
 The #100DaysOfCode Challenge consists of individuals coding a minimum of an hour for 100 consecutive days. 
 
-In order to obtain control of the Twitter account, I used the Tweepy Python library to access the Twitter API. To automate the process of favoriting the tweets I deployed my code onto Heroku so I don't have to run the code on my local computer versus running it on Herokus servers. 
+For more information about the #100DaysOfCode Challenge: https://www.100daysofcode.com/
+
+In order to obtain control of the Twitter account, I used the Tweepy Python library to access the Twitter API. To automate the process of favoriting the tweets, I deployed my code onto Heroku so I don't have to run the code on my local computer but rather running it on Herokus servers. 
 
 I was inspired to work on this project because I myself have participated in the #100DaysOfCode Challenge and wanted to give back to the community by supporting others on there journey.
 
-I shared my #100DaysOfCode Challenge journey on my website, check it out: https://www.romanatized.com/2020/05/what-i-learned-from-doing-100daysofcode.html
+I shared my #100DaysOfCode journey on my website, check it out: https://www.romanatized.com/2020/05/what-i-learned-from-doing-100daysofcode.html
 
 If you head over to my Twitter account, you can see the Twitter bot in action. For ever hour my Twitter bot is favoriting 5 #100DaysOfCode tweets: https://twitter.com/Romanatized/likes
 
-Highlights: During the duration of this project, I learned a vast amount in tackling and excuitng a project. 
+During the duration of this project, I learned to write meaningful code, even if it is just a test code. In the early phases of composing code and testing it out, it is very important to be wary of what you are testing, how you are testing it, and the results you are expecting. I learned this the hard way when I was favoriting 500 tweets every 10 minutes. At first glance, I didn't suspect much until Twitter suspended me from favoriting tweets. Oops!
 
-Writing meaningful code, even if it is just a test code! What I mean by this is, when in the early phases of composing code and testing it out be wary of what you are testing, how you are testing it, and results you are expecting out of it. I learned this the hard way when I was favoriting 500 tweets every 10 minutes. At first glance, I didn't suspect much until Twitter suspended me from doing so. Oops!
 
-Secure those API keys and tokens! After reaching out for assistance in deploying my code on Heroku, it was pointed out that my APi keys and tokens are visible in my repository. I didn't realize the scope of this issue until I was prompted to input my credit card information on Heroku. I can only imagine how detrimental things could get if I didn't take the right precautions.
-
-When working API's .gitignore is your best friend. This is a practice that I will be implementing moving forward in future projects to reassure privacy and security.
 
